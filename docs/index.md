@@ -1,6 +1,9 @@
-* Maine Points
+# Maine Points
 
-** Sailing
-** Hiking
-** Schools
-** Gear
+## Sailing
+
+## Hiking
+
+## Schools
+
+## Gear
